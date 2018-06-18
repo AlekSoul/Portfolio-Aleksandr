@@ -1,0 +1,16 @@
+*Nota rápida:
+
+As funcionalidades em jQuery implementadas estão no arquivo jstuff.js, já
+o código jQuery/JS da biblioteca está no arquivo coin-slider e coin-slider.min
+
+*Funcionalidades:
+
+1 - Função toggle. Botão para expandir/ocultar a exibição de texto no menu Apresentação;
+
+2 - Função alert. Exibe uma caixa de diálogo quando o usuário clica no botão "Enviar" no menu Contato;
+
+3 - Função click. Cria uma animação de redimensionamento de imagem quando o usuário clica 
+    no botão "Engorde o porquinho";
+
+*Link do Portfólio no GitHub:
+
