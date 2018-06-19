@@ -1,18 +1,18 @@
-*Nota r√°pida:
+*Nota r·pida:
 
-As funcionalidades em jQuery implementadas est√£o no arquivo jstuff.js, j√°
-o c√≥digo jQuery/JS da biblioteca est√° no arquivo coin-slider e coin-slider.min
+As funcionalidades em jQuery implementadas est„o no arquivo jstuff.js, j·
+o cÛdigo jQuery/JS da biblioteca est· no arquivo coin-slider e coin-slider.min
 
 *Funcionalidades:
 
-1 - Fun√ß√£o toggle. Bot√£o para expandir/ocultar a exibi√ß√£o de texto no menu Apresenta√ß√£o;
+1 - FunÁ„o toggle. Bot„o para expandir/ocultar a exibiÁ„o de texto no menu ApresentaÁ„o;
 
-2 - Fun√ß√£o alert. Exibe uma caixa de di√°logo quando o usu√°rio clica no bot√£o "Enviar" no menu Contato;
+2 - FunÁ„o alert. Exibe uma caixa de di·logo quando o usu·rio clica no bot„o "Enviar" no menu Contato;
 
-3 - Fun√ß√£o click. Cria uma anima√ß√£o de redimensionamento de imagem quando o usu√°rio clica 
-    no bot√£o "Engorde o porquinho";
+3 - FunÁ„o click. Cria uma animaÁ„o de redimensionamento de imagem quando o usu·rio clica 
+    no bot„o "Engorde o porquinho";
 
-*Link do Portf√≥lio no GitHub:
+*Link do PortfÛlio no GitHub:
 
 https://github.com/AlekSoul/Portfolio-Aleksandr
 
