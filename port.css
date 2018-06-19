@@ -260,6 +260,13 @@ nav a:focus {
 	cursor: pointer;
 }
 
+
+button:hover{
+	background-color: #2196f3;
+	color: #FFFFFF;
+}
+
+
 button {
 	margin: 10px 15px;
 	font-family: 'Lucida Console', Monospace;
@@ -268,6 +275,7 @@ button {
     padding: 16px;
     font-size: 16px;
 	border: none;
+	cursor: pointer;
     border-radius: 5px;
 }
 
