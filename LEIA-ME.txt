@@ -1,4 +1,9 @@
-*Nota rápida:
+*Notas rápidas:
+
+O tamanho total do arquivo, mesmo comprimido, excede a capacidade do Sigaa para o envio.
+Por isso, coloquei no drive e o link da pasta está logo abaixo:
+
+https://drive.google.com/open?id=1KTJ_zLSnvVdy7lM1XefV31O11XfDvLpQ
 
 As funcionalidades em jQuery implementadas estão no arquivo jstuff.js, já
 o código jQuery/JS da biblioteca está no arquivo coin-slider e coin-slider.min
